@@ -8,14 +8,9 @@ package sef.module4.activity;
  *
  */
 
-public class datastruc{
-	
-	int ,
-	float,
-	long, 
-	string, 
+
 	 
-}
+
 public class Calculator {
 
 	

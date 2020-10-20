@@ -32,6 +32,13 @@ public class NumToWords {
 		case 5:
 			numText = "FIVE";break;
 		// complete the code.
+		case 6:
+		    numText = "six";break;
+		case 7:
+			numText ="seven";break;
+		case 8:
+			numText ="eight";break;
+		
 		default:
 			numText = "NUMBER " + i;
 		}
